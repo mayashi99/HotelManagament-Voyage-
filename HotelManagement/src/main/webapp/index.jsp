@@ -20,7 +20,7 @@
 
 	<div class="topnav">
 		<div class="test">
-			<img src="images/logoNew1.jpg" alt="logo" width="100">
+			<img src="images/logovnew.png" alt="logo" width="270">
 			
 		</div>
 		<div>
@@ -29,8 +29,8 @@
 				href="/PageController/packages">Packages</a>
 		</div>
 		<div class="log">
-			<a href="/PageController/signup">Signup</a> <a
-				href="/PageController/signIn">Login</a>
+			<a href="/PageController/signup">Signup</a> 
+			<a href="/PageController/signIn">Login</a>
 		</div>
 	</div>
 
@@ -61,7 +61,8 @@
 	</div>
 	
 	<br>
-	Offers
+
+	<h1 style="margin-left: 90px;"> SUMMER OFFER</h1>
 	<div class="row">
     <div class="column">
       <img src="images/Beige White Modern Minimalist Simple House For Sale Poster.png" alt="wedding">
